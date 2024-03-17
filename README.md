@@ -1,1 +1,1 @@
-# photo-prism
+# photoprism
